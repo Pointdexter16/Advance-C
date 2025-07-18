@@ -1,1 +1,4 @@
-functionPoint
+* 
+!*/          # Do not ignore directories
+!*.*
+*.txt
