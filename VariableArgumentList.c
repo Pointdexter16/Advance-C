@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdarg.h>
-#include <sys/_types/_null.h>
 
 int sum_all(int count,...){
     va_list ap;
